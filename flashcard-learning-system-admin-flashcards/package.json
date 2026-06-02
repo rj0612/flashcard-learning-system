@@ -1,0 +1,14 @@
+{
+  "name": "flashcard-learning-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+    "start-server": "cd server && npm run dev",
+    "start-client": "cd client && npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

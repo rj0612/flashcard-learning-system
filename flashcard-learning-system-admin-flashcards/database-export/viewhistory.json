@@ -1,0 +1,221 @@
+[
+    {
+        "_id": {
+          "$oid": "6a1bf5269994cf4032eb124d"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bf5269994cf4032eb124b"
+        },
+        "action": "created",
+        "snapshotQuestion": "What does HTML stand for?",
+        "snapshotCategory": "Web development",
+        "createdAt": {
+          "$date": "2026-05-31T08:45:26.493Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T08:45:26.493Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1bfa8c9994cf4032eb1257"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bf5269994cf4032eb124b"
+        },
+        "action": "viewed_answer",
+        "snapshotQuestion": "What does HTML stand for?",
+        "snapshotCategory": "Web development",
+        "createdAt": {
+          "$date": "2026-05-31T09:08:28.438Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T09:08:28.438Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1bfa8e9994cf4032eb125e"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bf5269994cf4032eb124b"
+        },
+        "action": "viewed_answer",
+        "snapshotQuestion": "What does HTML stand for?",
+        "snapshotCategory": "Web development",
+        "createdAt": {
+          "$date": "2026-05-31T09:08:30.571Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T09:08:30.571Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1bfacb9994cf4032eb1266"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "created",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T09:09:31.056Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T09:09:31.056Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c321f9994cf4032eb127e"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1c321f9994cf4032eb127c"
+        },
+        "action": "created",
+        "snapshotQuestion": "What is React",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:05:35.919Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:05:35.919Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c327e9994cf4032eb1290"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "marked_studied",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:07:10.053Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:07:10.053Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c327e9994cf4032eb1292"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "marked_studied",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:07:10.086Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:07:10.086Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c327e9994cf4032eb1294"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "marked_studied",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:07:10.095Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:07:10.095Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c327e9994cf4032eb129a"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "marked_studied",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:07:10.242Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:07:10.242Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c327e9994cf4032eb12a4"
+        },
+        "user": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "flashcard": {
+          "$oid": "6a1bfacb9994cf4032eb1264"
+        },
+        "action": "marked_studied",
+        "snapshotQuestion": "What is javaScript used for?",
+        "snapshotCategory": "Programming",
+        "createdAt": {
+          "$date": "2026-05-31T13:07:10.416Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:07:10.416Z"
+        },
+        "__v": 0
+      }
+]

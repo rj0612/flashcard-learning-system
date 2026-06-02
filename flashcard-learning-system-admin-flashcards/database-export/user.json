@@ -1,0 +1,35 @@
+[
+    {
+        "_id": {
+          "$oid": "6a19c26f9994cf4032eb123c"
+        },
+        "name": "tester1",
+        "email": "wongreijiang123@gmail.com",
+        "password": "$2a$10$/TTxDakSIfxT5MjsbZmBAepsomFGVecKiHCtIe5hhXqx1Axlxz0ci",
+        "role": "student",
+        "createdAt": {
+          "$date": "2026-05-29T16:44:31.675Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-29T16:44:31.675Z"
+        },
+        "__v": 0
+      },
+
+      {
+        "_id": {
+          "$oid": "6a1c362cc4d83e24af2c48d2"
+        },
+        "name": "admin1",
+        "email": "admin@gmail.com",
+        "password": "$2a$10$E58Wa1wIFz3D.RRcaQWSOuOYjDK2wiaNt9A58CowRSc3/2S99G7Vi",
+        "role": "admin",
+        "createdAt": {
+          "$date": "2026-05-31T13:22:52.199Z"
+        },
+        "updatedAt": {
+          "$date": "2026-05-31T13:22:52.199Z"
+        },
+        "__v": 0
+      }
+]
