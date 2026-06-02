@@ -131,12 +131,14 @@ npm install
 Create a `.env` file inside the `server` folder:
 
 ```env
+MONGO_URI=mongodb+srv://flashcardUser1:Wong_0612@cluster0.gwgptch.mongodb.net/flashcardDB?retryWrites=true&w=majority
+
+JWT_SECRET=myverysecurejwtsecret
+
 PORT=5001
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=replace_this_with_a_long_random_secret
 ```
 
-Do not push `.env` to GitHub.
+
 
 ### 3. Start the backend
 
@@ -178,16 +180,18 @@ npm run seed
 Test accounts:
 
 ```text
-admin@example.com / password123
-student@example.com / password123
+admin123@gmail.com / admin123
+student@gmail.com / student1
+
+or feel free to create your own.
 ```
 
 ## Database Export
 
-A sample database export is included in:
+Database export is included in:
 
 ```text
-database-export/sample-data.json
+database-export/
 ```
 
 This file demonstrates the three core entities:
@@ -235,7 +239,7 @@ These files can be imported back into MongoDB to recreate the application's data
 
 ## Workload Allocation
 
-If completed individually:
+completed individually:
 
 | Member | Work Completed |
 |---|---|
