@@ -241,7 +241,7 @@ If completed individually:
 |---|---|
 | Rei Jiang Wong | Full-stack development, React frontend, Express backend, MongoDB models, JWT authentication, flashcard CRUD, learning history, admin panel, README, database export |
 
-If completed as a group, replace this table with each member's name and the files/features they contributed.
+
 
 
 ## Security Practices
